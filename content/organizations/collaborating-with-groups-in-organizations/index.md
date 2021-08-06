@@ -1,4 +1,4 @@
----
+---docs/content/organizations/collaborating-with-groups-in-organizations/index.md
 title: Collaborating with groups in organizations
 intro: Groups of people can collaborate across many projects at the same time in organization accounts.
 redirect_from:
